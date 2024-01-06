@@ -1,7 +1,9 @@
+# shg analysis dashboard power bi and excel
+
+![shg](https://github.com/allan-pg/shg-analysis/assets/62595869/d8f7b351-9e87-48bb-8f57-83d21e7c496b)
 ## Data Used
 
 **Data** - SHG DATA with over 119390 rows from the year 2013 to 2017.
-![shg](https://github.com/allan-pg/shg-analysis/assets/62595869/d8f7b351-9e87-48bb-8f57-83d21e7c496b)
 
 **Data Cleaning & Analysis** - Excel 
 
