@@ -40,4 +40,4 @@
 - Recommend more customers to make a non refundable deposit before being accomodated
 - Marketing the hotel in other neighbouring countries to fetch more customers
 - Make a 10% discount each month on the first five customers can also increase the number of customers
-- 
+
