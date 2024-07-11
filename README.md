@@ -1,4 +1,4 @@
-# shg analysis dashboard power bi and excel
+# shg Data Analysis dashboard power bi and excel
 
 ![shg](https://github.com/allan-pg/shg-analysis/assets/62595869/d8f7b351-9e87-48bb-8f57-83d21e7c496b)
 ## Data Used
